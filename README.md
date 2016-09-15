@@ -7,8 +7,8 @@ Required
  - Japanese version.
 
 Usage
-1.土の神殿でAutoTouchから起動
-2.回数を0にすると無限実行できます
-3.Enjoy!
+ - 土の神殿ダンジョン選択画面で起動
+ - 自己責任でお願いします。
+ - Enjoy!
 
 MIT LICENSE
